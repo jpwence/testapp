@@ -13,7 +13,7 @@ module.exports = function(sequelize, Sequelize) {
             notEmpty: true
         },
 
-        facebookID: {
+        facebookId: {
             type: Sequelize.STRING
         },
 
